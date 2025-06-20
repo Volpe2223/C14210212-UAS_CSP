@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "username": "admin1",
+      "password": "adminpassword",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "nama_produk": "Laptop",
+      "harga_satuan": 8000000,
+      "quantity": 64,
+      "id": "1"
+    },
+    {
+      "nama_produk": "Mouse",
+      "harga_satuan": 150000,
+      "quantity": 48,
+      "id": "2"
+    },
+    {
+      "nama_produk": "Keyboard",
+      "harga_satuan": 300000,
+      "quantity": 100,
+      "id": "3"
+    },
+    {
+      "nama_produk": "PC",
+      "harga_satuan": 15000000,
+      "quantity": 30,
+      "id": "ff63"
+    },
+    {
+      "id": "c85f",
+      "nama_produk": "Power Bank",
+      "harga_satuan": 500000,
+      "quantity": 50
+    }
+  ]
+}
