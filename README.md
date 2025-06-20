@@ -11,12 +11,8 @@
 
 ## Accounts 
 1. 
-username: user1 
-password": password123 
-role: user
+username: user1 password: password123 role: user
 
 2.
-username: admin1 
-password: adminpassword 
-role: admin
+username: admin1 password: adminpassword role: admin
 
